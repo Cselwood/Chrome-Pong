@@ -5,9 +5,9 @@ A simple Javascript extension to play a quick game of Pong in your Chrome browse
 Used W or S to move the left paddle up and down. Try to bounce the ball back towards the enemy moving past their position to score. First to five wins!
 
 ## Controls
-W/w to move upwards.
-S/s to move downwards.
-Click on the app icon to start/shut down.
+- W/w to move upwards.
+- S/s to move downwards.
+- Click on the app icon to start/shut down.
 
 ## Note
 The app is not currently on the Chrome extension store but will be soon. In case of error, you will have to restart the extension.
